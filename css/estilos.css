@@ -3,6 +3,7 @@
 :root {
     --padding-container: 100px 0;
     --color-title: #000000;
+    background-color: #000;
 }
 
 body {
@@ -129,17 +130,20 @@ body {
 
 .about {
     text-align: center;
+    background-color: #000;
 }
 
 .subtitle {
     color: var(--color-title);
     font-size: 2rem;
     margin-bottom: 25px;
+    color: #FFF;
 }
 
 
 .about__paragraph {
     line-height: 1.7;
+    color: #FFF;
 }
 
 .about__main {
@@ -160,6 +164,7 @@ body {
     width: 260px;
     overflow: hidden;
     margin: 0 auto;
+    color: #FFF;
 }
 
 .about__icon {
