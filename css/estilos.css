@@ -2,7 +2,7 @@
 
 :root {
     --padding-container: 100px 0;
-    --color-title: #000000;
+    --color-title: #ffffff;
     background-color: #000;
 }
 
@@ -315,7 +315,8 @@ body {
 }
 
 .testimony__texts{
-    max-width: 700px;
+    max-width: 700px;    color: #000;
+
 }
 
 .testimony__course{
@@ -346,7 +347,7 @@ body {
 .questions__padding{
     padding: 0;
     transition: padding .3s;
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     border-radius: 6px;
 }
 
